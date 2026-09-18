@@ -1,0 +1,87 @@
+[
+  {
+    "question": "How can employees log in through our company identity provider?",
+    "relevant_ids": [
+      "D02"
+    ]
+  },
+  {
+    "question": "What should my client do after an HTTP 429 response?",
+    "relevant_ids": [
+      "D04"
+    ]
+  },
+  {
+    "question": "How many API calls per minute does Pro allow?",
+    "relevant_ids": [
+      "D03"
+    ]
+  },
+  {
+    "question": "I forgot my password. How do I regain access?",
+    "relevant_ids": [
+      "D01"
+    ]
+  },
+  {
+    "question": "Can I get my money back ten days after my first purchase?",
+    "relevant_ids": [
+      "D05"
+    ]
+  },
+  {
+    "question": "Will cancelling my plan stop access immediately?",
+    "relevant_ids": [
+      "D06"
+    ]
+  },
+  {
+    "question": "How can I download project data in CSV format?",
+    "relevant_ids": [
+      "D07"
+    ]
+  },
+  {
+    "question": "Can I restore a project deleted two weeks ago?",
+    "relevant_ids": [
+      "D08"
+    ]
+  },
+  {
+    "question": "What does HTTP 401 mean for API authentication?",
+    "relevant_ids": [
+      "D09"
+    ]
+  },
+  {
+    "question": "How do I enable an authenticator app for login?",
+    "relevant_ids": [
+      "D10"
+    ]
+  },
+  {
+    "question": "How much does Starter cost and how many users are included?",
+    "relevant_ids": [
+      "D11"
+    ]
+  },
+  {
+    "question": "What is the maximum file size and what does HTTP 413 mean?",
+    "relevant_ids": [
+      "D14"
+    ]
+  },
+  {
+    "question": "Which customers receive support around the clock?",
+    "relevant_ids": [
+      "D15"
+    ]
+  },
+  {
+    "question": "What are the request limit and retry procedure when I hit HTTP 429?",
+    "relevant_ids": [
+      "D03",
+      "D04"
+    ]
+  }
+]

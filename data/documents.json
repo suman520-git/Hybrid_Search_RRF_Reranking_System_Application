@@ -1,0 +1,82 @@
+[
+  {
+    "id": "D01",
+    "title": "Password reset",
+    "text": "To reset a forgotten password, select Forgot password on the sign-in page. Enter your registered email. The reset link expires after 30 minutes."
+  },
+  {
+    "id": "D02",
+    "title": "Single sign-on",
+    "text": "Single sign-on (SSO) is available only on the Enterprise plan. It supports SAML 2.0 and allows employees to sign in using their company identity provider."
+  },
+  {
+    "id": "D03",
+    "title": "API rate limits",
+    "text": "The Starter API limit is 60 requests per minute. Pro allows 600 requests per minute. Enterprise allows 6000 requests per minute. Excess requests return HTTP 429."
+  },
+  {
+    "id": "D04",
+    "title": "Rate limit recovery",
+    "text": "When HTTP 429 occurs, wait for the Retry-After duration before retrying. Use exponential backoff with jitter. Repeated immediate retries will not bypass the rate limit."
+  },
+  {
+    "id": "D05",
+    "title": "Refund policy",
+    "text": "Customers can request a subscription refund within 14 days of their first purchase. Renewals are non-refundable. Contact billing support with the order ID."
+  },
+  {
+    "id": "D06",
+    "title": "Cancel subscription",
+    "text": "Cancel your subscription from Settings > Billing > Cancel plan. Access continues until the end of the paid billing period. Cancellation does not automatically request a refund."
+  },
+  {
+    "id": "D07",
+    "title": "Data export",
+    "text": "Export your project data as CSV or JSON from Settings > Data > Export. Exports are available on all plans. Download links expire after 24 hours."
+  },
+  {
+    "id": "D08",
+    "title": "Data retention",
+    "text": "Deleted projects remain recoverable for 30 days. After 30 days, project data is permanently removed. Contact support within the recovery period."
+  },
+  {
+    "id": "D09",
+    "title": "API authentication",
+    "text": "Send your API key in the Authorization header as Bearer YOUR_API_KEY. HTTP 401 indicates a missing, invalid, or expired API key. Create a replacement key in Settings > API keys."
+  },
+  {
+    "id": "D10",
+    "title": "Two-factor authentication",
+    "text": "Two-factor authentication (2FA) is available on every plan. Enable it in Settings > Security using an authenticator app. Save backup recovery codes in a secure place."
+  },
+  {
+    "id": "D11",
+    "title": "Starter plan",
+    "text": "The Starter plan costs 10 dollars per month and includes two users and 5 GB of storage. It does not include single sign-on."
+  },
+  {
+    "id": "D12",
+    "title": "Pro plan",
+    "text": "The Pro plan costs 30 dollars per month and includes ten users and 100 GB of storage. It does not include single sign-on."
+  },
+  {
+    "id": "D13",
+    "title": "Enterprise plan",
+    "text": "The Enterprise plan has custom pricing and includes unlimited users, 1 TB of storage, and priority support. Contact sales for a quote."
+  },
+  {
+    "id": "D14",
+    "title": "Upload limits",
+    "text": "Individual uploaded files must be at most 20 MB. Supported formats are PDF, TXT, and DOCX. HTTP 413 means the file exceeds the upload size limit."
+  },
+  {
+    "id": "D15",
+    "title": "Support availability",
+    "text": "Starter and Pro receive email support on weekdays. Enterprise receives priority support 24 hours a day, seven days a week."
+  },
+  {
+    "id": "D16",
+    "title": "Change email address",
+    "text": "To change your account email, open Settings > Profile. Verify the new address using the confirmation email. Your password remains unchanged."
+  }
+]
