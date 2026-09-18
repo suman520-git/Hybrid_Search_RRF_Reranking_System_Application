@@ -1,7 +1,10 @@
 # Build a Hybrid Search + RRF + Reranking System
 
-Application_Architecture
-![RAG_Reranking_Pipeline_Architecture.png](RAG_Reranking_Pipeline_Architecture.png)
+## Application_Architecture
+
+
+![Hybrid_Search_RRF_Reranking_System_Architecture.png](Hybrid_Search_RRF_Reranking_System_Architecture.png)
+
 
 
 
